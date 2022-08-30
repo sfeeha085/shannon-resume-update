@@ -1,0 +1,76 @@
+html{
+    background-color: black;
+    font-family: arial;
+    color: aliceblue;
+}
+
+.mainHeading { 
+    text-align: center;
+    
+max-width: 65%;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+.city  {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    }
+
+.border {
+    background-color: #ff6090;
+    height: 2px;
+    width: 95%;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;   
+}
+
+h2{
+    margin-bottom: 8px;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.selfimage {
+    margin-top: -7%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 10px #ff6090;
+    border-radius: 100px;
+}
+
+a {
+    color: #ff6090
+}
+
+.jobBody {
+    margin-left: 3%;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%
+}
+
+.flex-box {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+}
+
+.jobExperience {
+    width: 65%;
+    margin-left: 5%;
+}
+
+.education {
+    width: 25%;
+}
